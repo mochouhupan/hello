@@ -1,1 +1,2 @@
 hello,I'm git2.txt
+add new line
