@@ -1,3 +1,4 @@
 hello,I'm git2.txt
 add new line
 add second line
+add third line
